@@ -4,7 +4,7 @@
       "id": 1,
       "type": "After Dinners",
       "title": "Whiskey sour",
-      "ingredients": '["Bourbon whiskey", "Lemon juice", "Maple syrup", "Egg white"]',
+      "ingredients": "Bourbon whiskey, Lemon juice, Maple syrup, Egg white",
       "receipe": "Simply shake up the ingredients in a cocktail shaker with ice, and you’re good to go! The measurements in the recipe below: in both ounces and tablespoons to make it easy for family cooking. Just shake all the ingredients together in a cocktail shaker until cold. You can also cheat and just stir them together until the syrup has dissolved. Serve over lots of ice and enjoy! Try our clear ice if you want a stunning look. Whiskey sours are traditionally served with a slice or orange and a cocktail cherry. You can also add an egg white to get a frothy foam topping: that makes it a Boston Sour! Go to Whiskey Sour with Egg White for more. When you make this drink with bourbon, you can also call it a Bourbon Sour.",
       "taste": "Sour",
       "path2img": "https://assets.bonappetit.com/photos/57acc14e53e63daf11a4d9b6/1:1/w_2240,c_limit/whiskey-sour.jpg"
@@ -13,7 +13,7 @@
       "id": 2,
       "type": "Shooters",
       "title": "Blue Kamikaze",
-      "ingredients": '["Vodka", "Blue Curaçao", "Ice"]',
+      "ingredients": "Vodka, Blue Curaçao, Ice",
       "receipe": "If garnishing with Pop Rocks, lightly dip the rim of a shot glass in frosting, then dip in Pop Rocks. Pour all remaining ingredients into an ice-filled cocktail shaker and shake well. Strain into the shot glass.",
       "taste": "Sweet",
       "path2img": "https://images-gmi-pmc.edge-generalmills.com/18ed921f-7527-4205-84dc-d181087602f0.jpg"
